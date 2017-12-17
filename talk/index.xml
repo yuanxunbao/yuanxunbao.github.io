@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Yuanxun Bao</title>
+    <link>https://yuanxunbao.github.io/talk/</link>
+    <description>Recent content in Presentations on Yuanxun Bao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Yuanxun Bao</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thermal Fluctuations in Colloidal Suspensions and Reactive Liquid Mixture</title>
+      <link>https://yuanxunbao.github.io/talk/exxon-poster17/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/talk/exxon-poster17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fluctuating Boundary Integral Method for Brownian Suspensions</title>
+      <link>https://yuanxunbao.github.io/talk/fbim-birs-cmo17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/talk/fbim-birs-cmo17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fluctuating Boundary Integral Method for Brownian Suspensions</title>
+      <link>https://yuanxunbao.github.io/talk/fbim-siam-cse17/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/talk/fbim-siam-cse17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Immersed Boundary Method with Divergence-Free Velocity Interpolation</title>
+      <link>https://yuanxunbao.github.io/talk/dfib-cims15/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/talk/dfib-cims15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floquet Theory for Internal Gravity Wves in a Density-Stratified Fluid</title>
+      <link>https://yuanxunbao.github.io/talk/sfu-thesis2012/</link>
+      <pubDate>Fri, 03 Aug 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/talk/sfu-thesis2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unravelling the Resonant Instabilities of a Stratified Gravity Wave</title>
+      <link>https://yuanxunbao.github.io/talk/wavestab-iciam11/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/talk/wavestab-iciam11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

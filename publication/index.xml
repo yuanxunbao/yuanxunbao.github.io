@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Yuanxun Bao</title>
+    <link>https://yuanxunbao.github.io/publication/</link>
+    <description>Recent content in Publications on Yuanxun Bao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Yuanxun Bao</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Fluctuating Boundary Integral Method for Brownian Suspensions</title>
+      <link>https://yuanxunbao.github.io/publication/fbim-jcp/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/publication/fbim-jcp/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Immersed Boundary Method with Divergence-Free Velocity Interpolation and Force Spreading</title>
+      <link>https://yuanxunbao.github.io/publication/dfib-jcp/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/publication/dfib-jcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Gaussian-Like Immersed-Boundary Kernel with Three Continuous Derivatives and Improved Translational Invariance</title>
+      <link>https://yuanxunbao.github.io/publication/ibkernels-jcp/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanxunbao.github.io/publication/ibkernels-jcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
